@@ -3,7 +3,7 @@
 
 🌎 **Acesse agora:**
 
-<a href="https://dsmoviehenrique195578.netlify.app/" target="_blank" title="acessar o site"><strong>dsmoviehenrique195578.netlify.ap</strong></a>
+<a href="https://dsmoviehenriqueborges.netlify.app" target="_blank" title="acessar o site"><strong>dsmoviehenrique195578.netlify.ap</strong></a>
 
 <h1 style="padding: 50px; background: #333333;">
     <img alt="site dsmovie" title="#site dsmovie" src="https://raw.githubusercontent.com/biacoelho/dsmovie-java-react-devsuperior/main/mobile-demo.png" width=360px/>
@@ -27,7 +27,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 
 <br />
 
-### [](https://github.com/henrique195578/dsmovie) 🤖 Tecnologias
+### [](https://github.com/henrique195578/dsmovie2) 🤖 Tecnologias
 
 - **Java 11**
 - **Spring Boot**
@@ -43,7 +43,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - **VSCode**
 - **Eclipse**
 
-### [](https://github.com/henrique195578/dsmovie/tree/main/backend) 🎉 Aprendizados Back-end
+### [](https://github.com/henrique195578/dsmovie2) 🎉 Aprendizados Back-end
 
 - Modelo de domínio
 - Acesso a banco de dados
@@ -56,7 +56,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - Criar endpoints da API REST
 - Implantação na nuvem (Heroku e Netlify)
 
-### [](https://github.com/henrique195578/dsmovie/tree/main/frontend) 🎉 Aprendizados Front-end
+### [](https://github.com/henrique195578/dsmovie2) 🎉 Aprendizados Front-end
 
 - Integração do back end com front end
 - Três pilares do React
@@ -69,9 +69,9 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
   - useParams
   - useNavigate
 
-#### **Hospedagem do site** : <a href="https://app.netlify.com/sites/dsmoviehenrique195578/overview" target="_blank" title="acessar o site"><strong>https://www.netlify.com/</strong></a>
+#### **Hospedagem do site** : <a href="https://dsmoviehenriqueborges.netlify.app" target="_blank" title="acessar o site"><strong>https://www.netlify.com/</strong></a>
 
-#### **Hospedagem da API** : <a href="https://dashboard.heroku.com/apps/henrique195578-dsmovie" target="_blank" title="acessar o site"><strong>https://www.heroku.com</strong></a>
+#### **Hospedagem da API** : <a href="https://dashboard.heroku.com/apps/henriqueborges-dsmovie" target="_blank" title="acessar o site"><strong>https://www.heroku.com</strong></a>
 
 <br />
 
